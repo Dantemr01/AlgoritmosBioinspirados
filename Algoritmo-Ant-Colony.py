@@ -185,3 +185,4 @@ if __name__ == "__main__":
     print(f"Distancia total: {mejor_longitud:.2f}")
 
     graficar(coordenadas, mejor_recorrido, historial)
+ 
